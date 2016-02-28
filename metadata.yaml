@@ -1,0 +1,29 @@
+_repo: Behind-the-Bungalow_7953
+creator:
+  author:
+    agent_name: Aitken, Edward Hamilton
+    aliases:
+    - Aitken, E. H. (Edward Hamilton)
+    - EHA
+    birthdate: 1851
+    deathdate: 1909
+    gutenberg_agent_id: '2589'
+    url: http://www.gutenberg.org/2009/agents/2589
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Hamilton_Aitken
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'India -- Social life and customs'
+tableOfContents: 'Engaging a boy -- The boy at home -- The dog-boy -- The Ghorawalla,
+  or syce -- Bootlair saheb: Anglicè, the Butler -- Domingo, the cook -- The Mussaul,
+  or man of lamps -- The Hamal -- The body-guards -- That Dhobie! -- The ayah.'
+title: Behind the Bungalow
+url: http://www.gutenberg.org/ebooks/7953
